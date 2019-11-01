@@ -1,0 +1,26 @@
+.tank-section {
+    text-align: center; 
+    position: relative;
+}
+
+.tank {
+    position: relative;
+}
+
+#img-tank {
+    max-width: 100%;
+    height: 420px;
+}
+
+#water {
+    position: absolute; 
+    top: 80px; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    background-color:blue; 
+    width: 227.83px; 
+    height: 335px; 
+    z-index: -1;
+}
